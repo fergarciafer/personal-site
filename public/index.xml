@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Garcia</title>
+    <link>https://fergarciafer.github.io/</link>
+    <description>Recent content on Fernando Garcia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - Fernando Garcia</copyright>
+    <lastBuildDate>Sat, 03 Mar 2018 13:50:49 +0100</lastBuildDate>
+    
+	<atom:link href="https://fergarciafer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://fergarciafer.github.io/about/</link>
+      <pubDate>Sat, 03 Mar 2018 13:50:49 +0100</pubDate>
+      
+      <guid>https://fergarciafer.github.io/about/</guid>
+      <description>Welcome to my personal site. My name is Fernando García. Most of my professional career has been related to data: data migrations, database administration, business intelligence. And now Big Data and data science.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://fergarciafer.github.io/posts/first-post/</link>
+      <pubDate>Sat, 17 Nov 2018 01:31:08 -0300</pubDate>
+      
+      <guid>https://fergarciafer.github.io/posts/first-post/</guid>
+      <description>Finally, I have started this space for technical and creative writing!
+Thanks to Hugo and this excellent tutorial, I have set it up in record time.
+Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
