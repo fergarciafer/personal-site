@@ -11,6 +11,8 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 disqusShortname = "https-fergarciafer-github-io-1"
+googleAnalytics = "UA-129900305-1"
+
 
 [author]
     name = "Fernando Garcia"
