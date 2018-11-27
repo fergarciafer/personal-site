@@ -1,36 +1,59 @@
+## Basic Configuration
+
 baseurl = "https://fergarciafer.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Fernando Garcia"
 title = "Fernando Garcia"
-copyright = "Copyright &copy; 2018 - Fernando Garcia"
-canonifyurls = true
-theme = "kiera"
 
-paginate = 3
+theme = "hugo-goa"
 
-summaryLength = 30
-enableEmoji = true
-pygmentsCodeFences = true
-
+## Hugo Built-in Features
 disqusShortname = "https-fergarciafer-github-io-1"
 googleAnalytics = "UA-129900305-1"
+enableRobotsTXT = true
 
-
-[author]
-    name = "Fernando Garcia"
-    github = "fergarciafer"
-    gitlab = ""
-    linkedin = "fernandomartingarcia"
-    facebook = "fergarciafer"
-    twitter = "fergarciafer"
-    instagram = ""
-
+## Site Settings
 [params]
-    tagline = "A space for creative and technical writing"
+author = "Fernando Garcia"
+intro = "Data Professional"
+description = "My personal space for creative and technical writing"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
 
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "fergarciafer"
+linkedin = "fernandomartingarcia"
+twitter = "fergarciafer"
+email = "fergarciafer@hotmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Fernando Garcia. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
 [[menu.main]]
-    name = "Home" #Name in the navigation bar
-    weight = 10 #The larger the weight, the more on the right this item will be
-    url = "/" #URL address
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
 [[menu.main]]
-    name = "Posts"
-    weight = 20
-    url = "/posts/"
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
