@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ad on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/categories/ad/</link>
-    <description>Recent content in Ad on Erlich Bachman</description>
+    <title>Ad on Fernando Garcia</title>
+    <link>https://fergarciafer.github.io/categories/ad/</link>
+    <description>Recent content in Ad on Fernando Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 15:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 09:32:56 -0300</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/categories/ad/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fergarciafer.github.io/categories/ad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gavin Belson</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      <title>First activity with Carpentries</title>
+      <link>https://fergarciafer.github.io/blog/first-activity-with-carpentries/</link>
+      <pubDate>Mon, 26 Nov 2018 09:32:56 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
+      <guid>https://fergarciafer.github.io/blog/first-activity-with-carpentries/</guid>
+      <description>A few weeks ago I joined The Carpentries Latin America. The Carpentries is a community whose mission is to teach basic programming and data science skills to researchers around the world. The Carpentries Latin America is a group that works to extend the initiative of The Carpentries throughout the countries of this region.
+ I have joined the team of Spanish translators; a team dedicated to translating and maintaining The Carpentries classes in Spanish.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://fergarciafer.github.io/blog/first-post/</link>
+      <pubDate>Sat, 17 Nov 2018 01:31:08 -0300</pubDate>
+      
+      <guid>https://fergarciafer.github.io/blog/first-post/</guid>
+      <description>Finally, I have started this space for technical and creative writing!
+Thanks to Hugo and this excellent tutorial, I have set it up in record time.
+Stay tuned!</description>
     </item>
     
   </channel>

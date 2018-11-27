@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/tags/</link>
-    <description>Recent content in Tags on Erlich Bachman</description>
+    <title>Tags on Fernando Garcia</title>
+    <link>https://fergarciafer.github.io/tags/</link>
+    <description>Recent content in Tags on Fernando Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fergarciafer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/about/</link>
+      <link>https://fergarciafer.github.io/tags/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/about/</guid>
+      <guid>https://fergarciafer.github.io/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aviato</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</link>
+      <link>https://fergarciafer.github.io/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</guid>
+      <guid>https://fergarciafer.github.io/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bachman</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</link>
+      <link>https://fergarciafer.github.io/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</guid>
+      <guid>https://fergarciafer.github.io/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Belson</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/belson/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Carpentries</title>
+      <link>https://fergarciafer.github.io/tags/carpentries/</link>
+      <pubDate>Mon, 26 Nov 2018 09:32:56 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/belson/</guid>
+      <guid>https://fergarciafer.github.io/tags/carpentries/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ceo</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Fernando Garcia</title>
+      <link>https://fergarciafer.github.io/tags/fernando-garcia/</link>
+      <pubDate>Mon, 26 Nov 2018 09:32:56 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/ceo/</guid>
+      <guid>https://fergarciafer.github.io/tags/fernando-garcia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gavin</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/gavin/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Hugo</title>
+      <link>https://fergarciafer.github.io/tags/hugo/</link>
+      <pubDate>Sat, 17 Nov 2018 01:31:08 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/gavin/</guid>
+      <guid>https://fergarciafer.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/hardware/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      <title>Oracle</title>
+      <link>https://fergarciafer.github.io/tags/oracle/</link>
+      <pubDate>Sat, 17 Nov 2018 01:31:08 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hooli</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/</guid>
+      <guid>https://fergarciafer.github.io/tags/oracle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pied Piper</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</link>
+      <link>https://fergarciafer.github.io/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</guid>
+      <guid>https://fergarciafer.github.io/tags/pied-piper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uade</title>
+      <link>https://fergarciafer.github.io/tags/uade/</link>
+      <pubDate>Sat, 17 Nov 2018 01:31:08 -0300</pubDate>
+      
+      <guid>https://fergarciafer.github.io/tags/uade/</guid>
       <description></description>
     </item>
     

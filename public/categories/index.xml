@@ -1,49 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Erlich Bachman</title>
-    <link>https://shenoybr.github.io/hugo-goa-demo/categories/</link>
-    <description>Recent content in Categories on Erlich Bachman</description>
+    <title>Categories on Fernando Garcia</title>
+    <link>https://fergarciafer.github.io/categories/</link>
+    <description>Recent content in Categories on Fernando Garcia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fergarciafer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/categories/about/</link>
+      <link>https://fergarciafer.github.io/categories/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/about/</guid>
+      <guid>https://fergarciafer.github.io/categories/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ad</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/categories/ad/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      <link>https://fergarciafer.github.io/categories/ad/</link>
+      <pubDate>Mon, 26 Nov 2018 09:32:56 -0300</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/ad/</guid>
+      <guid>https://fergarciafer.github.io/categories/ad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articles</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</link>
+      <link>https://fergarciafer.github.io/categories/articles/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propaganda</title>
-      <link>https://shenoybr.github.io/hugo-goa-demo/categories/propaganda/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://shenoybr.github.io/hugo-goa-demo/categories/propaganda/</guid>
+      <guid>https://fergarciafer.github.io/categories/articles/</guid>
       <description></description>
     </item>
     

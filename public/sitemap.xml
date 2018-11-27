@@ -3,129 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/blog/first-activity-with-carpentries/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/about/</loc>
+    <loc>https://fergarciafer.github.io/blog/first-post/</loc>
+    <lastmod>2018-11-17T01:31:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fergarciafer.github.io/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
+    <loc>https://fergarciafer.github.io/coderag/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/first/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/second/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/about/</loc>
+    <loc>https://fergarciafer.github.io/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/about/</loc>
+    <loc>https://fergarciafer.github.io/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/ad/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/categories/ad/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</loc>
+    <loc>https://fergarciafer.github.io/categories/articles/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</loc>
+    <loc>https://fergarciafer.github.io/tags/aviato/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</loc>
+    <loc>https://fergarciafer.github.io/tags/bachman/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/belson/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/blog/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/carpentries/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/</loc>
+    <loc>https://fergarciafer.github.io/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/ceo/</loc>
-    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/fernando-garcia/</loc>
+    <lastmod>2018-11-26T09:32:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/gavin/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/hugo/</loc>
+    <lastmod>2018-11-17T01:31:08-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/hardware/</loc>
-    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/oracle/</loc>
+    <lastmod>2018-11-17T01:31:08-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</loc>
+    <loc>https://fergarciafer.github.io/tags/pied-piper/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/propaganda/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>https://fergarciafer.github.io/tags/uade/</loc>
+    <lastmod>2018-11-17T01:31:08-03:00</lastmod>
     <priority>0</priority>
   </url>
   
