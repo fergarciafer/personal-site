@@ -10,6 +10,8 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
+disqusShortname = "https-fergarciafer-github-io-1"
+
 [author]
     name = "Fernando Garcia"
     github = "fergarciafer"
