@@ -9,6 +9,7 @@ slug = ""
 tags = ["Fernando Garcia", "Carpentries"]
 title = "First activity with Carpentries"
 description = "My first experience with The Carpentries"
+aliases = ["/posts/first-activity-with-carpentries/"]
 +++
 
 
